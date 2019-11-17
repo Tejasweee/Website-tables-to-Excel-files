@@ -18,4 +18,4 @@ python site2excel.py
 
 -- Now arguments can be passed in the input prompt
 
-This script needs 'pandas' library to run. If pandas library is not installed this script will automatically try to install pandas first using pip.
+This script needs 'pandas' library to run. If pandas library is not installed this script will automatically try to install pandas first using pip. The secondary requirements like openpyxl library and lxml library can be easily fulfilled by running requirements.py
